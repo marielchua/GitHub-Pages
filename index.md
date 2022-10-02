@@ -34,18 +34,18 @@ I started programming in high school (which seems pretty late compared to the ot
 I've been on **Ascension** for two years, going into my third. It gives me a good break from the stress of school, and I've actually met a lot of other CSE majors in the dance community! Click on the section title to see our competitive set in 2021!
 
 ### About my job
-I just work a part time job in the Receiving Dept for UCSD! Honestly, it's not very interesting work, but I do end up talking about my major with my supervisors a lot since they're really supportive of their students.
+I just work a part time job in the **Receiving Dept** for UCSD! Honestly, it's not very interesting work, but I do end up talking about my major with my supervisors a lot since they're really supportive of their students.
 
 ### Video games I like
 Since video games are what got me interested in CS in the first place, I'll list out some of my favorites/ones I'm currently playing here.
 * FFXIV
 * Kirby the Forgotten Land
 * Fire Emblem Three Houses
-* FFXII Zodiac Age
-* Valorant (I'M DOGWATER THOUGH)
+* FFXII *Zodiac Age*
+* Valorant (***I'M DOGWATER THOUGH***)
 
 ## Conclusion!!!
-Thanks for reading through my site!! Hope you enjoyed! Scroll down for Sleepy Kirbz :D
+Thanks for reading through my site!! Hope you enjoyed! Scroll down for **Sleepy Kirbz** :D
 
 ### Relative links:
 [README.md file from this branch in Part 2](README.md)
