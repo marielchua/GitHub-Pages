@@ -23,6 +23,12 @@ I started programming in high school (which seems pretty late compared to the ot
 3. Python
 4. C++, Currently, I'm trying to teach myself C# as well :)
 
+## Goals for this Class
+- [x] Get a cool professor :3
+- [ ] Meet my groupmates!
+- [ ] Learn about today's culture surrounding software engineering
+- [ ] Create a project I can put on my resume
+
 ## More about me besides CS
 ### [About my dance team](https://youtu.be/Yd4yXcT6r1I)
 I've been on **Ascension** for two years, going into my third. It gives me a good break from the stress of school, and I've actually met a lot of other CSE majors in the dance community! The section link above is from our competitive set in 2021.
