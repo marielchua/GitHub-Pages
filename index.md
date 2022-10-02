@@ -21,8 +21,7 @@ I started programming in high school (which seems pretty late compared to the ot
 1. Java
 2. C
 3. Python
-4. C++
-Currently, I'm trying to teach myself C# as well :)
+4. C++, Currently, I'm trying to teach myself C# as well :)
 
 ## More about me besides CS
 ### [About my dance team](https://youtu.be/Yd4yXcT6r1I)
@@ -40,10 +39,9 @@ Since video games are what got me interested in CS in the first place, I'll list
 * Valorant (I'M DOGWATER THOUGH)
 
 ## Conclusion!!!
-Thanks for reading through my site!! Hope you enjoyed! :D
+Thanks for reading through my site!! Hope you enjoyed! Scroll down for Sleepy Kirbz :D
 
 ### Relative links:
 [README.md file from this branch in Part 2](README.md)
 
-Goodbye!
 ![Sleepy Kirby](Images/SleepingKirby.png)
