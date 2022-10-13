@@ -25,7 +25,7 @@ I started programming in high school (which seems pretty late compared to the ot
 
 ## Goals for this Class
 - [x] Get a cool professor :3
-- [ ] Meet my groupmates!
+- [x] Meet my groupmates!
 - [ ] Learn about today's culture surrounding software engineering
 - [ ] Create a project I can put on my resume
 
